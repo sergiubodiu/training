@@ -16,6 +16,10 @@
 
 ---
 
+>http://12factor.net
+
+---
+
 > I didn't change anything!
 -- every. developer. ever.
 
@@ -42,7 +46,7 @@
 
 ---
 
-![fit] (images/blame.png)
+![fit] (http://memecrunch.com/meme/ZEUJ/if-you-bothered-to-look-at-git-blame/image.jpg)
 
 ---
 
